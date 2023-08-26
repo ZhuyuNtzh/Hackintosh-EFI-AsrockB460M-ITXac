@@ -20,5 +20,7 @@
 |macOS| Monterey 12.6.1|
 
 ## 其他
-USB定制见文件附图
-![华擎B460I+C24（2A）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-AsrockB460M-ITXac/assets/115443114/e22a391f-8b0b-4563-9ce4-f703b173aa8b)
+|事项|说明|
+--- | ---
+|三码|请自行更换三码！！！| 
+|USB定制|![华擎B460I+C24（2A）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-AsrockB460M-ITXac/assets/115443114/e22a391f-8b0b-4563-9ce4-f703b173aa8b)|
