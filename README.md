@@ -1,5 +1,5 @@
-![华擎B460I+C24（2A）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-AsrockB460M-ITXac/assets/115443114/e22a391f-8b0b-4563-9ce4-f703b173aa8b)# Hackintosh-EFI-AsrockB460M-ITXac
-华擎B460M-ITX/ac黑苹果EFI文件
+![华擎B460I+C24（2A）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-AsrockB460M-ITXac/assets/115443114/e22a391f-8b0b-4563-9ce4-f703b173aa8b)
+
 ## 硬件配置单
 主板：华擎B460M-ITX/ac
 CPU：10400
